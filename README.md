@@ -100,7 +100,8 @@ crud-app/
 
 ## 🖼️ Screenshots
 
-*Add screenshots here to showcase the application UI.*
+(https://github.com/aarish19/crud-app/blob/main/Screenshot%202025-05-02%20021321.png)
+https://github.com/aarish19/crud-app/blob/main/Screenshot%202025-05-02%20021359.png
 
 ## 📄 License
 
